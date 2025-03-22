@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dorurung
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in NLP, Game development(renpy)
+- 🌱 I’m currently learning Typescript, React
 - 📫 How to reach me ... james580309@gmail.com
 
 <!---
